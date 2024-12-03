@@ -1,0 +1,11 @@
+1.
+if detected wilson:
+save the points to be used next time
+the new ball would be checked for the original photo, and the newly saved points for faster detection.
+
+2.
+ball goes in the detection chamber within 5 seconds,
+the detection system will start counting down after 5 seconds.
+if inside 5 seconds nothing has been found, it will go to the next detection and rol it from the x axis.
+if nothing was found again, it will be send to rest
+if it is, save the features and send it to the coresponding place.
